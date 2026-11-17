@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/CrashBytes/pipemason-binaries/releases/download/v0.7.103/pipemason-windows-x64.exe#/pipemason.exe",
-      "hash": "f45539bd906e3eca953540da3ca962df8fa26f91f75889c1d2910e85b314cb6a"
+      "hash": "873c1d2c803de19d6e2d0041c3147a8793a78cf92facb5c24e98450592e61e87"
     }
   },
   "bin": "pipemason.exe",
