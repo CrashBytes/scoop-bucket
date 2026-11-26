@@ -1,12 +1,12 @@
 {
-  "version": "0.7.167",
+  "version": "0.7.168",
   "description": "Local runner for the pipemason development pipeline",
   "homepage": "https://pipemason.com",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/CrashBytes/pipemason-binaries/releases/download/v0.7.167/pipemason-windows-x64.exe#/pipemason.exe",
-      "hash": "8d05797c470607fd6035fb6d1a3c7ae8b7a14841bc68cb0979f195292d6713f6"
+      "url": "https://github.com/CrashBytes/pipemason-binaries/releases/download/v0.7.168/pipemason-windows-x64.exe#/pipemason.exe",
+      "hash": "3416286326d8a11beddd2035f6465d2a69d71ce9a462c528b1edc795da54ddef"
     }
   },
   "bin": "pipemason.exe",
